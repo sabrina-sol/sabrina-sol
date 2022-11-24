@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sabrina Sol</h1>
 <h3 align="center">👩‍💻 Web Developer</h3>
 
-- 🎨 I ❤ SASS **ReactJS**
+-⚡ Always learning something new
 
-- 💬 I speak **Spanish (native) - English (fluent) - Hebrew (basic)**
+- 🎨 I ❤ **SASS**
+
+- 💪 My next step as a web developer is to master **ReactJS**
+
+- 💬 I speak **Spanish** (native) - **English** (fluent) - **Hebrew** (basic)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
