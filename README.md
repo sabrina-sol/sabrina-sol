@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sabrina Sol</h1>
 <h3 align="center">👩‍💻 Web Developer</h3>
 
--⚡ Always learning something new
+- ⚡ Always learning something new
 
 - 🎨 I ❤ **SASS**
 
