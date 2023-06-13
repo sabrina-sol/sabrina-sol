@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sabrina Sol</h1>
-<h3 align="center">👩‍💻 Web Developer</h3>
+<h3 align="center">👩‍💻 UX Writer </h3>
 
 - ⚡ Always learning something new
 
-- 🎨 I ❤ **SASS**
+- 🎨 Creative spirit and passionate about communication
 
-- 💪 My next step as a web developer is to master **ReactJS**
+- 💪 Persistent and hard worker in order to be the best version of myself
 
 - 💬 I speak **Spanish** (native) - **English** (fluent) - **Hebrew** (basic)
 
