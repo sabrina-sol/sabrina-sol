@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sabrina Sol</h1>
-<h3 align="center">👩‍💻 UX Writer </h3>
+<h3 align="center">👩‍💻 Frontend developer </h3>
 
 - ⚡ Always learning something new
 
